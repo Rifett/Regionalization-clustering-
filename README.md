@@ -1,5 +1,6 @@
 # Geographical Regionalization (Clustering)
 
+## Overview
 Geographical regionalization is the process of dividing geographical areas into smaller regions based on shared characteristics. This project demonstrates this process by regionalizing Prague city map as an example.
 
 ## Algorithm steps
